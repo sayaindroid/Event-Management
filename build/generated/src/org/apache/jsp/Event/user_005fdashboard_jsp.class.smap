@@ -1,0 +1,12 @@
+SMAP
+user_005fdashboard_jsp.java
+JSP
+*S JSP
+*F
++ 0 user_dashboard.jsp
+Event/user_dashboard.jsp
+*L
+1,70:44
+71:114,3
+72,12:117
+*E
